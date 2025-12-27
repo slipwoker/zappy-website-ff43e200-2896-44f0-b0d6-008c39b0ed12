@@ -1,0 +1,64 @@
+# טיולי ג'יפים קסם הטבע — Generative Engine Optimization Map
+
+> טיולי ג'יפים קסם הטבע, חברה להסעת נוסעים בשכר, 19 שנות ניסיון בהובלת מטיילים מרוצים בהובלת רוני הילמן, איש אדמה שחיי את הטבע. אני רוני הילמן (44) נשוי באושר לאביה הילמן (43) ואב ל 4 בנים מקסימים: מאור, ספיר, שהם ואשל. אני חיי ונושם את הצורך לגרום לאנשים להתחבר לטבע כמו שאני חווה אותו.
+
+---
+
+## Pages
+
+### דף הבית
+https://-ff43e200.zappy5.app
+טיולי ג'יפים קסם הטבע - 19 שנות ניסיון בטיולי ג'יפים ברמת הגולן. מסלולים אתגריים ורגועים, טיולי זרימות והסעת נוסעים בשכר עם רוני הילמן.
+
+### הטיולים שלנו
+https://-ff43e200.zappy5.app/services
+גלו את מגוון הטיולים שלנו ברמת הגולן - מסלולים אתגריים, רגועים, טיולי זרימות והסעות נוסעים. כל טיול הוא חוויה ייחודית ובלתי נשכחת.
+
+### אודות רוני
+https://-ff43e200.zappy5.app/about
+הכירו את רוני הילמן - איש אדמה עם 19 שנות ניסיון בהובלת טיולי ג'יפים ברמת הגולן. אהבה אמיתית לטבע וחוויות בלתי נשכחות.
+
+### צור קשר
+https://-ff43e200.zappy5.app/contact
+צרו קשר עם טיולי ג'יפים קסם הטבע להזמנת טיול או לקבלת מידע נוסף. זמינים עבורכם לכל שאלה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ff43e200.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ff43e200.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ff43e200.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About טיולי ג'יפים קסם הטבע
+טיולי ג'יפים קסם הטבע, חברה להסעת נוסעים בשכר, 19 שנות ניסיון בהובלת מטיילים מרוצים בהובלת רוני הילמן, איש אדמה שחיי את הטבע. אני רוני הילמן (44) נשוי באושר לאביה הילמן (43) ואב ל 4 בנים מקסימים: מאור, ספיר, שהם ואשל. אני חיי ונושם את הצורך לגרום לאנשים להתחבר לטבע כמו שאני חווה אותו.
+
+## Services/Products
+- טיולי ג'יפים ברמת הגולן
+- הסעת נוסעים בשכר
+- מסלולים אתגריים
+- מסלולים רגועים
+- טיולי זרימות
+
+## Target Audience
+General audience
+
+## Industry
+פעילויות טבע וחינוך סביבתי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-ff43e200.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-ff43e200.zappy5.app/robots.txt
